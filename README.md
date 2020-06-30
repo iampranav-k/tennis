@@ -1,4 +1,4 @@
-Project Topic :< Tennis Tournament dataset >
+Project Topic :< Tennis dataset >
 
 Reference : DLithe  
 Website : www.dlithe.com
